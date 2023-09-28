@@ -2,9 +2,9 @@ function httpproxyinjectorfile() {
 
     var a = document.createElement("a");
 
-    a.href = "your_file_url_here"; 
+    a.href = "https://cloud.nimesh-official.repl.co/A-Dev1412_HPI_2.0.1.7_x64.exe"; 
 
-    a.download = "your_file_name_here"; 
+    a.download = "A-Dev1412_HPI_2.0.1.7_x64.exe"; 
 
     a.click();
 }
@@ -16,9 +16,9 @@ function proxifierfile() {
 
     var a = document.createElement("a");
 
-    a.href = "your_file_url_here"; 
+    a.href = "https://cloud.nimesh-official.repl.co/ProxifierSetup.exe"; 
 
-    a.download = "your_file_name_here"; 
+    a.download = "ProxifierSetup.exe"; 
 
     a.click();
 }
