@@ -2686,4 +2686,9 @@
     line-height: 30px;
     margin-bottom: 30px; }
   
+  .img-fluid {
+    width: 200px;
+    height: 200px;
+  }
+
   /*# sourceMappingURL=styles.css.map */
